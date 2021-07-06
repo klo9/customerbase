@@ -1,0 +1,22 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "john doe",
+      "email": "john@gmail.com",
+      "age": "36"
+    },
+    {
+      "id": "2",
+      "name": "sarah doe",
+      "email": "sarah@gmail.com",
+      "age": 50
+    },
+    {
+      "name": "Walter White",
+      "email": "ww@breakingbad.com",
+      "age": 45,
+      "id": "A_mvnv8"
+    }
+  ]
+}
